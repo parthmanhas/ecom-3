@@ -1,0 +1,11 @@
+.logo-container {
+    height: 10vh;
+}
+
+img {
+    width: 50%;
+}
+
+nav ul li a {
+    text-decoration: none;
+}

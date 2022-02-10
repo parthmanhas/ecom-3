@@ -1,0 +1,17 @@
+.product-image {
+    width: 100%;
+}
+
+.product-detail-buttons {
+    width: 45%;
+}
+
+.product-detail-side-image-container {
+    width: 20%;
+    margin-right: 5px;
+}
+
+.product-detail-side-image {
+    width: 100%;
+    margin-bottom: 5px;
+}
